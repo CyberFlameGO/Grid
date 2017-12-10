@@ -1,0 +1,7 @@
+name: Grid
+version: ${project.version}
+author: NickG365
+main: com.pickaxis.grid.core.GridPlugin
+commands:
+    kick:
+    ban:
